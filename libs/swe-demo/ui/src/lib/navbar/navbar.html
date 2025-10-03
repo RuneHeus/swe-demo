@@ -1,0 +1,16 @@
+<!-- navbar.html -->
+<nav class="nav">
+    @for (item of items; track $index) {
+    <a [routerLink]="item.path" routerLinkActive="active" (click)="navigate.emit(item.path)">
+        @if (item.icon) {
+        <i class="material-icons">{{ item.icon }}</i>
+        }
+        <span>{{ item.label }}</span>
+    </a>
+    }
+
+    <div class="spacer"></div>
+    @if (showUser) {
+    <button type="button" (click)="logout.emit()">Logout</button>
+    }
+</nav>
