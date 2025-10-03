@@ -1,0 +1,22 @@
+/* navbar.css */
+.nav {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    border-bottom: 1px solid var(--border, #e5e7eb);
+}
+
+.spacer {
+    flex: 1;
+}
+
+a {
+    text-decoration: none;
+    opacity: 0.85;
+}
+
+a.active {
+    opacity: 1;
+    font-weight: 600;
+}
