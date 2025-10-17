@@ -35,156 +35,44 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "apps/swe-demo-api - Copy/Properties/launchSettings.json",
-        "hash": "5716744288561905669"
-      },
-      {
         "file": "apps/swe-demo-api - Copy/appsettings.Development.json",
         "hash": "3339958947771738801"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Domain/Entities/LegoSets.cs",
-        "hash": "5557935673037252098"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Migrations/20251010090612_InitialMigration.cs",
-        "hash": "16553518047170809321"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Repositories/LegoSetRepository.cs",
-        "hash": "7321746732676459948"
-      },
-      {
-        "file": "apps/swe-demo-api - Copy/libman.json",
-        "hash": "17818986687302195432"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "16966456664637690898"
       },
       {
         "file": "libs/SweDemoBackend/SweDemoBackend.Domain/Class1.cs",
         "hash": "2960259441628824418"
       },
       {
-        "file": "nx.json",
-        "hash": "3526241458886213412"
+        "file": "libs/SweDemoBackend/SweDemoBackend.Application/SweDemoBackend.Application.csproj",
+        "hash": "12789029532820001342"
       },
       {
-        "file": "package.json",
-        "hash": "10178375387542920709"
-      },
-      {
-        "file": "README.md",
-        "hash": "3565523782843978288"
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Repositories/LegoSetRepository.cs",
+        "hash": "7321746732676459948"
       },
       {
         "file": "libs/SweDemoBackend/SweDemoBackend.Contracts/Dto/LegoSetDto.cs",
         "hash": "7354660537963688331"
       },
       {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Class1.cs",
-        "hash": "11020461535324581010"
-      },
-      {
-        "file": "tsconfig.base.json",
-        "hash": "5329950612788426993"
-      },
-      {
-        "file": "apps/swe-demo-api - Copy/appsettings.json",
-        "hash": "8794831988107864270"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Configurations/LegoSetConfiguration.cs",
-        "hash": "15700280031128125618"
-      },
-      {
-        "file": "apps/swe-demo-api - Copy/Controllers/WeatherForecastController.cs",
-        "hash": "739810862124887713"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Application/SweDemoBackend.Application.csproj",
-        "hash": "12789029532820001342"
+        "file": ".editorconfig",
+        "hash": "5443105041930014821"
       },
       {
         "file": "apps/swe-demo-api - Copy/swe-demo-api.csproj",
         "hash": "2729361481380499050"
       },
       {
-        "file": "package-lock.json",
-        "hash": "8903640581529732081"
+        "file": "apps/swe-demo-api - Copy/appsettings.json",
+        "hash": "8794831988107864270"
       },
       {
-        "file": ".editorconfig",
-        "hash": "5443105041930014821"
-      },
-      {
-        "file": "eslint.config.mjs",
-        "hash": "8944620160701465"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/BricksForKidsDbContext.cs",
-        "hash": "16993943458500124556"
-      },
-      {
-        "file": ".prettierignore",
-        "hash": "5407418692668764289"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Application/Interfaces/Repositories/ILegoSetRepository.cs",
-        "hash": "4157346720052769660"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Contracts/SweDemoBackend.Contracts.csproj",
-        "hash": "3779012132032958820"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/SweDemoBackend.Infrastructure.csproj",
-        "hash": "5067194454652985891"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Migrations/BricksForKidsDbContextModelSnapshot.cs",
-        "hash": "14889522449143166798"
-      },
-      {
-        "file": ".vscode/extensions.json",
-        "hash": "13417776046909105611"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Application/UseCases/LegoSetUseCase.cs",
-        "hash": "5158997432967293734"
-      },
-      {
-        "file": "apps/swe-demo-api - Copy/Program.cs",
-        "hash": "15109703658838535904"
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Migrations/20251010090612_InitialMigration.cs",
+        "hash": "16553518047170809321"
       },
       {
         "file": "libs/SweDemoBackend/SweDemoBackend.Domain/SweDemoBackend.Domain.csproj",
         "hash": "3779012132032958820"
-      },
-      {
-        "file": ".prettierrc",
-        "hash": "16267754514737964994"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Application/Class1.cs",
-        "hash": "13560560331522148481"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/DependencyInjection.cs",
-        "hash": "12730785603986645807"
-      },
-      {
-        "file": "apps/swe-demo-api - Copy/WeatherForecast.cs",
-        "hash": "17895437864116895301"
-      },
-      {
-        "file": ".github/workflows/ci.yml",
-        "hash": "502510281041743295"
-      },
-      {
-        "file": "apps/swe-demo-api - Copy/swe-demo-api.http",
-        "hash": "3372652213877559476"
       },
       {
         "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Migrations/20251010090612_InitialMigration.Designer.cs",
@@ -195,8 +83,120 @@
         "hash": "11950032567883678447"
       },
       {
+        "file": ".prettierignore",
+        "hash": "5407418692668764289"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Migrations/BricksForKidsDbContextModelSnapshot.cs",
+        "hash": "14889522449143166798"
+      },
+      {
+        "file": "eslint.config.mjs",
+        "hash": "8944620160701465"
+      },
+      {
+        "file": "package.json",
+        "hash": "10178375387542920709"
+      },
+      {
+        "file": ".prettierrc",
+        "hash": "16267754514737964994"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/Controllers/WeatherForecastController.cs",
+        "hash": "739810862124887713"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/DependencyInjection.cs",
+        "hash": "12730785603986645807"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Domain/Entities/LegoSets.cs",
+        "hash": "5557935673037252098"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Application/Class1.cs",
+        "hash": "13560560331522148481"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "13417776046909105611"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Application/Interfaces/Repositories/ILegoSetRepository.cs",
+        "hash": "4157346720052769660"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/SweDemoBackend.Infrastructure.csproj",
+        "hash": "5067194454652985891"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/BricksForKidsDbContext.cs",
+        "hash": "16993943458500124556"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "16966456664637690898"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "5329950612788426993"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/WeatherForecast.cs",
+        "hash": "17895437864116895301"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/Program.cs",
+        "hash": "15109703658838535904"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Class1.cs",
+        "hash": "11020461535324581010"
+      },
+      {
+        "file": ".github/workflows/ci.yml",
+        "hash": "10067011614009608780"
+      },
+      {
         "file": "vs-solution-monorepo.sln",
         "hash": "10424148381114820059"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/Properties/launchSettings.json",
+        "hash": "5716744288561905669"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Contracts/SweDemoBackend.Contracts.csproj",
+        "hash": "3779012132032958820"
+      },
+      {
+        "file": "nx.json",
+        "hash": "3526241458886213412"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Configurations/LegoSetConfiguration.cs",
+        "hash": "15700280031128125618"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "8903640581529732081"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/swe-demo-api.http",
+        "hash": "3372652213877559476"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Application/UseCases/LegoSetUseCase.cs",
+        "hash": "5158997432967293734"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/libman.json",
+        "hash": "17818986687302195432"
+      },
+      {
+        "file": "README.md",
+        "hash": "3565523782843978288"
       },
       {
         "file": "vitest.workspace.ts",
