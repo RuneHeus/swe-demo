@@ -1,0 +1,1356 @@
+{
+  "apps/swe-demo-app-e2e": {
+    "root": [
+      "apps/swe-demo-app-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "metadata.targetGroups": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "metadata.targetGroups.E2E (CI)": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "metadata.targetGroups.E2E (CI).0": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "metadata.targetGroups.E2E (CI).1": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "metadata.targetGroups.E2E (CI).2": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.options": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.metadata": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.dependsOn": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.cache": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.inputs": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.outputs": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.executor": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.options.cwd": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.options.command": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.metadata.technologies": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.metadata.technologies.0": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.metadata.description": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.metadata.help": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.metadata.help.command": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e.metadata.help.example": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.options": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.metadata": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.dependsOn": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.cache": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.inputs": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.outputs": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.executor": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.options.cwd": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.options.env": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.options.command": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.metadata.technologies": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.metadata.technologies.0": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.metadata.description": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.metadata.help": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.metadata.help.command": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--src/example.spec.ts.metadata.help.example": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.executor": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.cache": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.inputs": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.outputs": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.dependsOn": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.metadata": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.metadata.technologies": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.metadata.technologies.0": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.metadata.description": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.metadata.nonAtomizedTarget": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.metadata.help": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.metadata.help.command": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci.metadata.help.example": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports.executor": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports.cache": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports.inputs": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports.outputs": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports.options": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports.metadata": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports.options.config": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports.options.expectedSuites": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports.metadata.technologies": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports.metadata.technologies.0": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.e2e-ci--merge-reports.metadata.description": [
+      "apps/swe-demo-app-e2e/playwright.config.ts",
+      "@nx/playwright/plugin"
+    ],
+    "targets.lint": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.cache": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.inputs": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.outputs": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.executor": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.cwd": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.options.command": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.technologies.0": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.description": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.command": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "targets.lint.metadata.help.example": [
+      "apps/swe-demo-app-e2e/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "apps/swe-demo-app-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/swe-demo-app-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/swe-demo-app-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/swe-demo-app-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "// targets": [
+      "apps/swe-demo-app-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "implicitDependencies": [
+      "apps/swe-demo-app-e2e/project.json",
+      "nx/core/project-json"
+    ],
+    "implicitDependencies.swe-demo-app": [
+      "apps/swe-demo-app-e2e/project.json",
+      "nx/core/project-json"
+    ]
+  },
+  "libs/shared/domain": {
+    "root": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/shared/domain/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.reportsDirectory": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "libs/shared/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "libs/shared/feature": {
+    "root": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/shared/feature/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.reportsDirectory": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "libs/shared/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "libs/shared/ui": {
+    "root": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/shared/ui/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.reportsDirectory": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "libs/shared/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "libs/shared/util": {
+    "root": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/shared/util/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.reportsDirectory": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "libs/shared/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "libs/swe-demo/domain": {
+    "root": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/swe-demo/domain/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.reportsDirectory": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "libs/swe-demo/domain/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "libs/swe-demo/feature": {
+    "root": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/swe-demo/feature/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.reportsDirectory": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "libs/swe-demo/feature/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "libs/swe-demo/ui": {
+    "root": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/swe-demo/ui/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.reportsDirectory": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "libs/swe-demo/ui/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "libs/swe-demo/util": {
+    "root": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "libs/swe-demo/util/eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.reportsDirectory": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "libs/swe-demo/util/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "apps/swe-demo-app": {
+    "root": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "eslint.config.mjs",
+      "@nx/eslint/plugin"
+    ],
+    "name": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.outputs": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.defaultConfiguration": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.outputPath": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.browser": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.polyfills": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.tsConfig": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.assets": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.styles": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.budgets": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.production.outputHashing": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.optimization": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.extractLicenses": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.sourceMap": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.continuous": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.executor": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options.buildTarget": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.executor": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.outputs": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.test.options.reportsDirectory": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.continuous": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.executor": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.buildTarget": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.port": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.staticFilePath": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.spa": [
+      "apps/swe-demo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.test.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ]
+  },
+  "apps/swe-demo-api": {
+    "root": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "name": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "tags": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.scope:backend": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "tags.type:api": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.options.command": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.executor": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.options.command": [
+      "apps/swe-demo-api/project.json",
+      "nx/core/project-json"
+    ]
+  }
+}

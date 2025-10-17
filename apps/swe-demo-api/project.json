@@ -1,0 +1,20 @@
+{
+  "name": "swe-demo-api",
+  "projectType": "application",
+  "sourceRoot": "apps/swe-demo-api",
+  "tags": ["scope:backend", "type:api"],
+  "targets": {
+    "serve": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "dotnet run --project apps/swe-demo-api"
+      }
+    },
+    "build": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "dotnet build apps/swe-demo-api"
+      }
+    }
+  }
+}

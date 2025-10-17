@@ -14,7 +14,13 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@swe-demo/shared-domain": ["libs/shared/domain/src/index.ts"],
+      "@swe-demo/swe-demo-domain": ["libs/swe-demo/domain/src/index.ts"],
+      "@swe-demo/swe-demo-feature": ["libs/swe-demo/feature/src/index.ts"],
+      "@swe-demo/swe-demo-ui": ["libs/swe-demo/ui/src/index.ts"],
+      "@swe-demo/swe-demo-util": ["libs/swe-demo/util/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
