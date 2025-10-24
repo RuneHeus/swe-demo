@@ -35,175 +35,457 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "apps/swe-demo-api - Copy/appsettings.Development.json",
-        "hash": "3339958947771738801"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Domain/Class1.cs",
-        "hash": "2960259441628824418"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Application/SweDemoBackend.Application.csproj",
-        "hash": "12789029532820001342"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Repositories/LegoSetRepository.cs",
-        "hash": "7321746732676459948"
+        "file": ".gitignore",
+        "hash": "16966456664637690898"
       },
       {
         "file": "libs/SweDemoBackend/SweDemoBackend.Contracts/Dto/LegoSetDto.cs",
         "hash": "7354660537963688331"
       },
       {
-        "file": ".editorconfig",
-        "hash": "5443105041930014821"
-      },
-      {
-        "file": "apps/swe-demo-api - Copy/swe-demo-api.csproj",
-        "hash": "2729361481380499050"
-      },
-      {
-        "file": "apps/swe-demo-api - Copy/appsettings.json",
-        "hash": "8794831988107864270"
+        "file": ".prettierignore",
+        "hash": "5407418692668764289"
       },
       {
         "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Migrations/20251010090612_InitialMigration.cs",
         "hash": "16553518047170809321"
       },
       {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Domain/SweDemoBackend.Domain.csproj",
-        "hash": "3779012132032958820"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Migrations/20251010090612_InitialMigration.Designer.cs",
-        "hash": "6782828141338298854"
+        "file": "README.md",
+        "hash": "3565523782843978288"
       },
       {
         "file": "libs/SweDemoBackend/SweDemoBackend.Contracts/Class1.cs",
         "hash": "11950032567883678447"
       },
       {
-        "file": ".prettierignore",
-        "hash": "5407418692668764289"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Migrations/BricksForKidsDbContextModelSnapshot.cs",
-        "hash": "14889522449143166798"
-      },
-      {
-        "file": "eslint.config.mjs",
-        "hash": "8944620160701465"
-      },
-      {
-        "file": "package.json",
-        "hash": "10178375387542920709"
+        "file": "libs/SweDemoBackend/SweDemoBackend.Domain/Entities/LegoSets.cs",
+        "hash": "5557935673037252098"
       },
       {
         "file": ".prettierrc",
         "hash": "16267754514737964994"
       },
       {
-        "file": "apps/swe-demo-api - Copy/Controllers/WeatherForecastController.cs",
-        "hash": "739810862124887713"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/DependencyInjection.cs",
-        "hash": "12730785603986645807"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Domain/Entities/LegoSets.cs",
-        "hash": "5557935673037252098"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Application/Class1.cs",
-        "hash": "13560560331522148481"
-      },
-      {
-        "file": ".vscode/extensions.json",
-        "hash": "13417776046909105611"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Application/Interfaces/Repositories/ILegoSetRepository.cs",
-        "hash": "4157346720052769660"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/SweDemoBackend.Infrastructure.csproj",
-        "hash": "5067194454652985891"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/BricksForKidsDbContext.cs",
-        "hash": "16993943458500124556"
-      },
-      {
-        "file": ".gitignore",
-        "hash": "16966456664637690898"
-      },
-      {
-        "file": "tsconfig.base.json",
-        "hash": "5329950612788426993"
-      },
-      {
-        "file": "apps/swe-demo-api - Copy/WeatherForecast.cs",
-        "hash": "17895437864116895301"
-      },
-      {
-        "file": "apps/swe-demo-api - Copy/Program.cs",
-        "hash": "15109703658838535904"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Class1.cs",
-        "hash": "11020461535324581010"
+        "file": "nx.json",
+        "hash": "3526241458886213412"
       },
       {
         "file": ".github/workflows/ci.yml",
         "hash": "10067011614009608780"
       },
       {
-        "file": "vs-solution-monorepo.sln",
-        "hash": "10424148381114820059"
-      },
-      {
-        "file": "apps/swe-demo-api - Copy/Properties/launchSettings.json",
-        "hash": "5716744288561905669"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Contracts/SweDemoBackend.Contracts.csproj",
-        "hash": "3779012132032958820"
-      },
-      {
-        "file": "nx.json",
-        "hash": "3526241458886213412"
-      },
-      {
-        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Configurations/LegoSetConfiguration.cs",
-        "hash": "15700280031128125618"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "8903640581529732081"
-      },
-      {
         "file": "apps/swe-demo-api - Copy/swe-demo-api.http",
         "hash": "3372652213877559476"
+      },
+      {
+        "file": ".editorconfig",
+        "hash": "5443105041930014821"
+      },
+      {
+        "file": ".github/workflows/build-and-deploy.yml",
+        "hash": "11007270457469790000"
       },
       {
         "file": "libs/SweDemoBackend/SweDemoBackend.Application/UseCases/LegoSetUseCase.cs",
         "hash": "5158997432967293734"
       },
       {
-        "file": "apps/swe-demo-api - Copy/libman.json",
-        "hash": "17818986687302195432"
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/DependencyInjection.cs",
+        "hash": "12730785603986645807"
       },
       {
-        "file": "README.md",
-        "hash": "3565523782843978288"
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Migrations/20251010090612_InitialMigration.Designer.cs",
+        "hash": "6782828141338298854"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Configurations/LegoSetConfiguration.cs",
+        "hash": "15700280031128125618"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/Program.cs",
+        "hash": "15109703658838535904"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/appsettings.Development.json",
+        "hash": "3339958947771738801"
       },
       {
         "file": "vitest.workspace.ts",
         "hash": "4665328684042819579"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/BricksForKidsDbContext.cs",
+        "hash": "16993943458500124556"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/SweDemoBackend.Infrastructure.csproj",
+        "hash": "5067194454652985891"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Domain/Class1.cs",
+        "hash": "2960259441628824418"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "8903640581529732081"
+      },
+      {
+        "file": "vs-solution-monorepo.sln",
+        "hash": "10424148381114820059"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Repositories/LegoSetRepository.cs",
+        "hash": "7321746732676459948"
+      },
+      {
+        "file": "eslint.config.mjs",
+        "hash": "8944620160701465"
+      },
+      {
+        "file": "tsconfig.base.json",
+        "hash": "5329950612788426993"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "13417776046909105611"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/swe-demo-api.csproj",
+        "hash": "2729361481380499050"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Application/SweDemoBackend.Application.csproj",
+        "hash": "12789029532820001342"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/libman.json",
+        "hash": "17818986687302195432"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Domain/SweDemoBackend.Domain.csproj",
+        "hash": "3779012132032958820"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Contracts/SweDemoBackend.Contracts.csproj",
+        "hash": "3779012132032958820"
+      },
+      {
+        "file": "package.json",
+        "hash": "10178375387542920709"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Application/Class1.cs",
+        "hash": "13560560331522148481"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/Controllers/WeatherForecastController.cs",
+        "hash": "739810862124887713"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/appsettings.json",
+        "hash": "8794831988107864270"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/WeatherForecast.cs",
+        "hash": "17895437864116895301"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Application/Interfaces/Repositories/ILegoSetRepository.cs",
+        "hash": "4157346720052769660"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Class1.cs",
+        "hash": "11020461535324581010"
+      },
+      {
+        "file": "libs/SweDemoBackend/SweDemoBackend.Infrastructure/Migrations/BricksForKidsDbContextModelSnapshot.cs",
+        "hash": "14889522449143166798"
+      },
+      {
+        "file": "apps/swe-demo-api - Copy/Properties/launchSettings.json",
+        "hash": "5716744288561905669"
       }
     ],
     "projectFileMap": {
+      "shared-domain": [
+        {
+          "file": "libs/shared/domain/README.md",
+          "hash": "3539059345185980561"
+        },
+        {
+          "file": "libs/shared/domain/eslint.config.mjs",
+          "hash": "6219511726200060807",
+          "deps": [
+            "npm:@nx/eslint-plugin"
+          ]
+        },
+        {
+          "file": "libs/shared/domain/project.json",
+          "hash": "6632116902659741515"
+        },
+        {
+          "file": "libs/shared/domain/src/index.ts",
+          "hash": "16807528387018360434"
+        },
+        {
+          "file": "libs/shared/domain/src/lib/dto/lego-set.ts",
+          "hash": "364371293287942157"
+        },
+        {
+          "file": "libs/shared/domain/src/lib/env.d.ts",
+          "hash": "13817105639274622728"
+        },
+        {
+          "file": "libs/shared/domain/src/lib/shared-domain/shared-domain.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/shared/domain/src/lib/shared-domain/shared-domain.html",
+          "hash": "7661172492287954092"
+        },
+        {
+          "file": "libs/shared/domain/src/lib/shared-domain/shared-domain.spec.ts",
+          "hash": "3526806746718869018",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/domain/src/lib/shared-domain/shared-domain.ts",
+          "hash": "11621492828106683312",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/domain/src/test-setup.ts",
+          "hash": "539921863778627670",
+          "deps": [
+            "npm:@angular/compiler",
+            "npm:@analogjs/vitest-angular",
+            "npm:@angular/platform-browser",
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/domain/tsconfig.json",
+          "hash": "7926296956335143092"
+        },
+        {
+          "file": "libs/shared/domain/tsconfig.lib.json",
+          "hash": "9162017831943094349"
+        },
+        {
+          "file": "libs/shared/domain/tsconfig.spec.json",
+          "hash": "5958551803246193814"
+        },
+        {
+          "file": "libs/shared/domain/vite.config.mts",
+          "hash": "408734392327938318",
+          "deps": [
+            "npm:vite",
+            "npm:@analogjs/vite-plugin-angular",
+            "npm:@nx/vite"
+          ]
+        }
+      ],
+      "shared-ui": [
+        {
+          "file": "libs/shared/ui/README.md",
+          "hash": "16598666316718665621"
+        },
+        {
+          "file": "libs/shared/ui/eslint.config.mjs",
+          "hash": "2398396891847188576",
+          "deps": [
+            "npm:@nx/eslint-plugin",
+            "undefined"
+          ]
+        },
+        {
+          "file": "libs/shared/ui/project.json",
+          "hash": "626091942604424443"
+        },
+        {
+          "file": "libs/shared/ui/src/index.ts",
+          "hash": "11204300780151135817"
+        },
+        {
+          "file": "libs/shared/ui/src/lib/shared-ui/shared-ui.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/shared/ui/src/lib/shared-ui/shared-ui.html",
+          "hash": "16322369541819631025"
+        },
+        {
+          "file": "libs/shared/ui/src/lib/shared-ui/shared-ui.spec.ts",
+          "hash": "17128334063016562301",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/ui/src/lib/shared-ui/shared-ui.ts",
+          "hash": "5810495161695601695",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/ui/src/test-setup.ts",
+          "hash": "13958101226034237113",
+          "deps": [
+            "npm:@angular/compiler",
+            "npm:@analogjs/vitest-angular",
+            "npm:@angular/platform-browser",
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/shared/ui/tsconfig.json",
+          "hash": "4279606570288386047"
+        },
+        {
+          "file": "libs/shared/ui/tsconfig.lib.json",
+          "hash": "4335457317289508738"
+        },
+        {
+          "file": "libs/shared/ui/tsconfig.spec.json",
+          "hash": "5782639815746378952"
+        },
+        {
+          "file": "libs/shared/ui/vite.config.mts",
+          "hash": "13850014704431945515",
+          "deps": [
+            "npm:vite",
+            "npm:@analogjs/vite-plugin-angular",
+            "npm:@nx/vite"
+          ]
+        }
+      ],
+      "swe-demo-feature": [
+        {
+          "file": "libs/swe-demo/feature/README.md",
+          "hash": "6238556813501757894"
+        },
+        {
+          "file": "libs/swe-demo/feature/eslint.config.mjs",
+          "hash": "2398396891847188576",
+          "deps": [
+            "npm:@nx/eslint-plugin",
+            "undefined"
+          ]
+        },
+        {
+          "file": "libs/swe-demo/feature/project.json",
+          "hash": "13511405171319664031"
+        },
+        {
+          "file": "libs/swe-demo/feature/src/index.ts",
+          "hash": "13956113453956402048"
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/lego-set-overview/lego-set-overview.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/lego-set-overview/lego-set-overview.html",
+          "hash": "5512364391473334442"
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/lego-set-overview/lego-set-overview.spec.ts",
+          "hash": "3512150909298563956",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/lego-set-overview/lego-set-overview.ts",
+          "hash": "14772003174028179598",
+          "deps": [
+            "npm:@angular/core",
+            "swe-demo-domain"
+          ]
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/navbar-container/navbar-container.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/navbar-container/navbar-container.html",
+          "hash": "1940908318465630197"
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/navbar-container/navbar-container.spec.ts",
+          "hash": "10243411500672131070",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/navbar-container/navbar-container.ts",
+          "hash": "7698158006482861328",
+          "deps": [
+            "npm:@angular/core",
+            "npm:@angular/router"
+          ]
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/swe-demo-feature/swe-demo-feature.css",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/swe-demo-feature/swe-demo-feature.html",
+          "hash": "6481425972147682219"
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/swe-demo-feature/swe-demo-feature.spec.ts",
+          "hash": "10439308898138456084",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/swe-demo/feature/src/lib/swe-demo-feature/swe-demo-feature.ts",
+          "hash": "7511434047348844945",
+          "deps": [
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/swe-demo/feature/src/test-setup.ts",
+          "hash": "13958101226034237113",
+          "deps": [
+            "npm:@angular/compiler",
+            "npm:@analogjs/vitest-angular",
+            "npm:@angular/platform-browser",
+            "npm:@angular/core"
+          ]
+        },
+        {
+          "file": "libs/swe-demo/feature/tsconfig.json",
+          "hash": "4279606570288386047"
+        },
+        {
+          "file": "libs/swe-demo/feature/tsconfig.lib.json",
+          "hash": "4335457317289508738"
+        },
+        {
+          "file": "libs/swe-demo/feature/tsconfig.spec.json",
+          "hash": "5782639815746378952"
+        },
+        {
+          "file": "libs/swe-demo/feature/vite.config.mts",
+          "hash": "10204093503012274207",
+          "deps": [
+            "npm:vite",
+            "npm:@analogjs/vite-plugin-angular",
+            "npm:@nx/vite"
+          ]
+        }
+      ],
       "swe-demo-app": [
         {
           "file": "apps/swe-demo-app/project.json",
@@ -386,205 +668,6 @@
           ]
         }
       ],
-      "shared-ui": [
-        {
-          "file": "libs/shared/ui/README.md",
-          "hash": "16598666316718665621"
-        },
-        {
-          "file": "libs/shared/ui/eslint.config.mjs",
-          "hash": "2398396891847188576",
-          "deps": [
-            "npm:@nx/eslint-plugin",
-            "undefined"
-          ]
-        },
-        {
-          "file": "libs/shared/ui/project.json",
-          "hash": "626091942604424443"
-        },
-        {
-          "file": "libs/shared/ui/src/index.ts",
-          "hash": "11204300780151135817"
-        },
-        {
-          "file": "libs/shared/ui/src/lib/shared-ui/shared-ui.css",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "libs/shared/ui/src/lib/shared-ui/shared-ui.html",
-          "hash": "16322369541819631025"
-        },
-        {
-          "file": "libs/shared/ui/src/lib/shared-ui/shared-ui.spec.ts",
-          "hash": "17128334063016562301",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/shared/ui/src/lib/shared-ui/shared-ui.ts",
-          "hash": "5810495161695601695",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/shared/ui/src/test-setup.ts",
-          "hash": "13958101226034237113",
-          "deps": [
-            "npm:@angular/compiler",
-            "npm:@analogjs/vitest-angular",
-            "npm:@angular/platform-browser",
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/shared/ui/tsconfig.json",
-          "hash": "4279606570288386047"
-        },
-        {
-          "file": "libs/shared/ui/tsconfig.lib.json",
-          "hash": "4335457317289508738"
-        },
-        {
-          "file": "libs/shared/ui/tsconfig.spec.json",
-          "hash": "5782639815746378952"
-        },
-        {
-          "file": "libs/shared/ui/vite.config.mts",
-          "hash": "13850014704431945515",
-          "deps": [
-            "npm:vite",
-            "npm:@analogjs/vite-plugin-angular",
-            "npm:@nx/vite"
-          ]
-        }
-      ],
-      "shared-domain": [
-        {
-          "file": "libs/shared/domain/README.md",
-          "hash": "3539059345185980561"
-        },
-        {
-          "file": "libs/shared/domain/eslint.config.mjs",
-          "hash": "6219511726200060807",
-          "deps": [
-            "npm:@nx/eslint-plugin"
-          ]
-        },
-        {
-          "file": "libs/shared/domain/project.json",
-          "hash": "6632116902659741515"
-        },
-        {
-          "file": "libs/shared/domain/src/index.ts",
-          "hash": "16807528387018360434"
-        },
-        {
-          "file": "libs/shared/domain/src/lib/dto/lego-set.ts",
-          "hash": "364371293287942157"
-        },
-        {
-          "file": "libs/shared/domain/src/lib/env.d.ts",
-          "hash": "13817105639274622728"
-        },
-        {
-          "file": "libs/shared/domain/src/lib/shared-domain/shared-domain.css",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "libs/shared/domain/src/lib/shared-domain/shared-domain.html",
-          "hash": "7661172492287954092"
-        },
-        {
-          "file": "libs/shared/domain/src/lib/shared-domain/shared-domain.spec.ts",
-          "hash": "3526806746718869018",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/shared/domain/src/lib/shared-domain/shared-domain.ts",
-          "hash": "11621492828106683312",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/shared/domain/src/test-setup.ts",
-          "hash": "539921863778627670",
-          "deps": [
-            "npm:@angular/compiler",
-            "npm:@analogjs/vitest-angular",
-            "npm:@angular/platform-browser",
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/shared/domain/tsconfig.json",
-          "hash": "7926296956335143092"
-        },
-        {
-          "file": "libs/shared/domain/tsconfig.lib.json",
-          "hash": "9162017831943094349"
-        },
-        {
-          "file": "libs/shared/domain/tsconfig.spec.json",
-          "hash": "5958551803246193814"
-        },
-        {
-          "file": "libs/shared/domain/vite.config.mts",
-          "hash": "408734392327938318",
-          "deps": [
-            "npm:vite",
-            "npm:@analogjs/vite-plugin-angular",
-            "npm:@nx/vite"
-          ]
-        }
-      ],
-      "swe-demo-api": [
-        {
-          "file": "apps/swe-demo-api/Controllers/LegoSetController.cs",
-          "hash": "6349089282867409218"
-        },
-        {
-          "file": "apps/swe-demo-api/Controllers/WeatherForecastController.cs",
-          "hash": "739810862124887713"
-        },
-        {
-          "file": "apps/swe-demo-api/Program.cs",
-          "hash": "15982935345840259522"
-        },
-        {
-          "file": "apps/swe-demo-api/Properties/launchSettings.json",
-          "hash": "17053539969158451938"
-        },
-        {
-          "file": "apps/swe-demo-api/WeatherForecast.cs",
-          "hash": "17895437864116895301"
-        },
-        {
-          "file": "apps/swe-demo-api/appsettings.Development.json",
-          "hash": "14202206141807170703"
-        },
-        {
-          "file": "apps/swe-demo-api/appsettings.json",
-          "hash": "8794831988107864270"
-        },
-        {
-          "file": "apps/swe-demo-api/project.json",
-          "hash": "12687185516666930384"
-        },
-        {
-          "file": "apps/swe-demo-api/swe-demo-api.csproj",
-          "hash": "9727308334685777281"
-        },
-        {
-          "file": "apps/swe-demo-api/swe-demo-api.http",
-          "hash": "10539923299416817535"
-        }
-      ],
       "shared-feature": [
         {
           "file": "libs/shared/feature/README.md",
@@ -758,103 +841,46 @@
           ]
         }
       ],
-      "swe-demo-domain": [
+      "swe-demo-api": [
         {
-          "file": "libs/swe-demo/domain/README.md",
-          "hash": "7510316223366039738"
+          "file": "apps/swe-demo-api/Controllers/LegoSetController.cs",
+          "hash": "6349089282867409218"
         },
         {
-          "file": "libs/swe-demo/domain/eslint.config.mjs",
-          "hash": "2398396891847188576",
-          "deps": [
-            "npm:@nx/eslint-plugin",
-            "undefined"
-          ]
+          "file": "apps/swe-demo-api/Controllers/WeatherForecastController.cs",
+          "hash": "739810862124887713"
         },
         {
-          "file": "libs/swe-demo/domain/project.json",
-          "hash": "7219906732211013007"
+          "file": "apps/swe-demo-api/Program.cs",
+          "hash": "15982935345840259522"
         },
         {
-          "file": "libs/swe-demo/domain/src/index.ts",
-          "hash": "18152242130354720187"
+          "file": "apps/swe-demo-api/Properties/launchSettings.json",
+          "hash": "17053539969158451938"
         },
         {
-          "file": "libs/swe-demo/domain/src/lib/env.d.ts",
-          "hash": "13817105639274622728"
+          "file": "apps/swe-demo-api/WeatherForecast.cs",
+          "hash": "17895437864116895301"
         },
         {
-          "file": "libs/swe-demo/domain/src/lib/models/nav-item.ts",
-          "hash": "643449366760989709"
+          "file": "apps/swe-demo-api/appsettings.Development.json",
+          "hash": "14202206141807170703"
         },
         {
-          "file": "libs/swe-demo/domain/src/lib/services/lego-set.service.spec.ts",
-          "hash": "17746884928420241447",
-          "deps": [
-            "npm:@angular/core"
-          ]
+          "file": "apps/swe-demo-api/appsettings.json",
+          "hash": "8794831988107864270"
         },
         {
-          "file": "libs/swe-demo/domain/src/lib/services/lego-set.service.ts",
-          "hash": "4013789169922027063",
-          "deps": [
-            "npm:@angular/core",
-            "shared-domain",
-            "npm:@angular/common"
-          ]
+          "file": "apps/swe-demo-api/project.json",
+          "hash": "12687185516666930384"
         },
         {
-          "file": "libs/swe-demo/domain/src/lib/swe-demo-domain/swe-demo-domain.css",
-          "hash": "3244421341483603138"
+          "file": "apps/swe-demo-api/swe-demo-api.csproj",
+          "hash": "9727308334685777281"
         },
         {
-          "file": "libs/swe-demo/domain/src/lib/swe-demo-domain/swe-demo-domain.html",
-          "hash": "9640200822311304621"
-        },
-        {
-          "file": "libs/swe-demo/domain/src/lib/swe-demo-domain/swe-demo-domain.spec.ts",
-          "hash": "9421198974079907374",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/swe-demo/domain/src/lib/swe-demo-domain/swe-demo-domain.ts",
-          "hash": "13367290210528625364",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/swe-demo/domain/src/test-setup.ts",
-          "hash": "13958101226034237113",
-          "deps": [
-            "npm:@angular/compiler",
-            "npm:@analogjs/vitest-angular",
-            "npm:@angular/platform-browser",
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/swe-demo/domain/tsconfig.json",
-          "hash": "4279606570288386047"
-        },
-        {
-          "file": "libs/swe-demo/domain/tsconfig.lib.json",
-          "hash": "4335457317289508738"
-        },
-        {
-          "file": "libs/swe-demo/domain/tsconfig.spec.json",
-          "hash": "5782639815746378952"
-        },
-        {
-          "file": "libs/swe-demo/domain/vite.config.mts",
-          "hash": "9722794643309501460",
-          "deps": [
-            "npm:vite",
-            "npm:@analogjs/vite-plugin-angular",
-            "npm:@nx/vite"
-          ]
+          "file": "apps/swe-demo-api/swe-demo-api.http",
+          "hash": "10539923299416817535"
         }
       ],
       "shared-util": [
@@ -966,13 +992,13 @@
           "hash": "15726545290547512047"
         }
       ],
-      "swe-demo-feature": [
+      "swe-demo-domain": [
         {
-          "file": "libs/swe-demo/feature/README.md",
-          "hash": "6238556813501757894"
+          "file": "libs/swe-demo/domain/README.md",
+          "hash": "7510316223366039738"
         },
         {
-          "file": "libs/swe-demo/feature/eslint.config.mjs",
+          "file": "libs/swe-demo/domain/eslint.config.mjs",
           "hash": "2398396891847188576",
           "deps": [
             "npm:@nx/eslint-plugin",
@@ -980,83 +1006,61 @@
           ]
         },
         {
-          "file": "libs/swe-demo/feature/project.json",
-          "hash": "13511405171319664031"
+          "file": "libs/swe-demo/domain/project.json",
+          "hash": "7219906732211013007"
         },
         {
-          "file": "libs/swe-demo/feature/src/index.ts",
-          "hash": "13956113453956402048"
+          "file": "libs/swe-demo/domain/src/index.ts",
+          "hash": "18152242130354720187"
         },
         {
-          "file": "libs/swe-demo/feature/src/lib/lego-set-overview/lego-set-overview.css",
-          "hash": "3244421341483603138"
+          "file": "libs/swe-demo/domain/src/lib/env.d.ts",
+          "hash": "13817105639274622728"
         },
         {
-          "file": "libs/swe-demo/feature/src/lib/lego-set-overview/lego-set-overview.html",
-          "hash": "5512364391473334442"
+          "file": "libs/swe-demo/domain/src/lib/models/nav-item.ts",
+          "hash": "643449366760989709"
         },
         {
-          "file": "libs/swe-demo/feature/src/lib/lego-set-overview/lego-set-overview.spec.ts",
-          "hash": "3512150909298563956",
+          "file": "libs/swe-demo/domain/src/lib/services/lego-set.service.spec.ts",
+          "hash": "17746884928420241447",
           "deps": [
             "npm:@angular/core"
           ]
         },
         {
-          "file": "libs/swe-demo/feature/src/lib/lego-set-overview/lego-set-overview.ts",
-          "hash": "14772003174028179598",
+          "file": "libs/swe-demo/domain/src/lib/services/lego-set.service.ts",
+          "hash": "4013789169922027063",
           "deps": [
             "npm:@angular/core",
-            "swe-demo-domain"
+            "shared-domain",
+            "npm:@angular/common"
           ]
         },
         {
-          "file": "libs/swe-demo/feature/src/lib/navbar-container/navbar-container.css",
+          "file": "libs/swe-demo/domain/src/lib/swe-demo-domain/swe-demo-domain.css",
           "hash": "3244421341483603138"
         },
         {
-          "file": "libs/swe-demo/feature/src/lib/navbar-container/navbar-container.html",
-          "hash": "1940908318465630197"
+          "file": "libs/swe-demo/domain/src/lib/swe-demo-domain/swe-demo-domain.html",
+          "hash": "9640200822311304621"
         },
         {
-          "file": "libs/swe-demo/feature/src/lib/navbar-container/navbar-container.spec.ts",
-          "hash": "10243411500672131070",
+          "file": "libs/swe-demo/domain/src/lib/swe-demo-domain/swe-demo-domain.spec.ts",
+          "hash": "9421198974079907374",
           "deps": [
             "npm:@angular/core"
           ]
         },
         {
-          "file": "libs/swe-demo/feature/src/lib/navbar-container/navbar-container.ts",
-          "hash": "7698158006482861328",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/router"
-          ]
-        },
-        {
-          "file": "libs/swe-demo/feature/src/lib/swe-demo-feature/swe-demo-feature.css",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "libs/swe-demo/feature/src/lib/swe-demo-feature/swe-demo-feature.html",
-          "hash": "6481425972147682219"
-        },
-        {
-          "file": "libs/swe-demo/feature/src/lib/swe-demo-feature/swe-demo-feature.spec.ts",
-          "hash": "10439308898138456084",
+          "file": "libs/swe-demo/domain/src/lib/swe-demo-domain/swe-demo-domain.ts",
+          "hash": "13367290210528625364",
           "deps": [
             "npm:@angular/core"
           ]
         },
         {
-          "file": "libs/swe-demo/feature/src/lib/swe-demo-feature/swe-demo-feature.ts",
-          "hash": "7511434047348844945",
-          "deps": [
-            "npm:@angular/core"
-          ]
-        },
-        {
-          "file": "libs/swe-demo/feature/src/test-setup.ts",
+          "file": "libs/swe-demo/domain/src/test-setup.ts",
           "hash": "13958101226034237113",
           "deps": [
             "npm:@angular/compiler",
@@ -1066,20 +1070,20 @@
           ]
         },
         {
-          "file": "libs/swe-demo/feature/tsconfig.json",
+          "file": "libs/swe-demo/domain/tsconfig.json",
           "hash": "4279606570288386047"
         },
         {
-          "file": "libs/swe-demo/feature/tsconfig.lib.json",
+          "file": "libs/swe-demo/domain/tsconfig.lib.json",
           "hash": "4335457317289508738"
         },
         {
-          "file": "libs/swe-demo/feature/tsconfig.spec.json",
+          "file": "libs/swe-demo/domain/tsconfig.spec.json",
           "hash": "5782639815746378952"
         },
         {
-          "file": "libs/swe-demo/feature/vite.config.mts",
-          "hash": "10204093503012274207",
+          "file": "libs/swe-demo/domain/vite.config.mts",
+          "hash": "9722794643309501460",
           "deps": [
             "npm:vite",
             "npm:@analogjs/vite-plugin-angular",
